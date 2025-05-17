@@ -4,5 +4,3 @@ ccccc
 ddddd
 eeeee
 fffff
-ミス1
-ミス2
