@@ -10,3 +10,7 @@ fffff
 まとめるよ2
 まとめるよ3
 まとめるよ4
+
+BranchB
+BranchB
+BranchB
