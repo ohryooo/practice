@@ -3,3 +3,5 @@ feature3
 BranchB
 BranchB
 BranchB
+
+さらに追記
